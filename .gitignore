@@ -1,0 +1,21 @@
+*.DS_Store
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.toc
+*.gz
+*.tex
+*.png
